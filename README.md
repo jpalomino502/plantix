@@ -1,50 +1,59 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <h1 align="center">Plantix 🌿</h1>
+  <h3 align="center">Expo Ecosystem Exploration</h3>
+  <p align="center">
+    <em>"Testing the waters of universal mobile development."</em>
+  </p>
+  
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Status-Prototype-lightgrey?style=for-the-badge" alt="Status Prototype" />
+</div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+### 🧪 About the Project
 
-1. Install dependencies
+**Plantix** serves as a technical playground and proof of concept. The primary objective of this repository was to dive deep into the **Expo workflow** and understand the modern capabilities of **React Native**.
 
-   ```bash
-   npm install
-   ```
+Unlike my other production-ready projects, this repository acts as a sandbox to test file-based routing, asset handling, and the cross-platform build process offered by `create-expo-app`.
 
-2. Start the app
+> *A practical approach to understanding how Expo abstracts native complexity.*
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+### 🔭 Technical Explorations
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Rather than user features, this project focuses on developer experience and architecture:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **📱 Expo Go Workflow**: Testing real-time updates on physical devices.
+- **file-based Routing**: Exploring the directory structure within the `/app` folder for navigation.
+- **Universal Builds**: Verifying the unified codebase for iOS, Android, and Web.
+- **Asset Management**: configuring fonts, images, and static resources in the React Native environment.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+### 🛠️ Tech Stack
 
-```bash
-npm run reset-project
-```
+The toolkit used for this investigation:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<p>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+<div align="center">
+  <h3>🚧 Project Status</h3>
+  <p><strong>Experimental / Archived.</strong></p>
+  <p>This project successfully fulfilled its purpose of evaluating the Expo ecosystem for future mobile developments.</p>
+</div>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<p align="center">
+  <em>"Learning never stops. Every test is a step forward."</em>
+</p>
